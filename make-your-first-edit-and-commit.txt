@@ -8,3 +8,5 @@ Pin is a rockstar!
 WELL DONE TEAM!
 
 I am going to start a new branch now with some changes and deleting this file to further look at this together.
+
+Shin Yi had some troubles with this after realizing her time zone was set to Japan. Gosh. OK fixed, tomorrow we go again!
