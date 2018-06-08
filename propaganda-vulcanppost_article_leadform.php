@@ -18,11 +18,11 @@
                     <h2>If you'd like to learn more about the solution, drop your details below and we'll reach out to you.</h2>
                     <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 
-
                 <!–– EDIT - Lead Form Fields ––>
                 <!–– EDIT - duplicate field blocks according to lead form fields created on propaganda cremedigital com forms ––>
                 <!–– Don't edit classes ––>
-                <!–– Edit 'for' key and value, 'type', 'name', 'id' ––>
+                <!–– 'for' and 'id' have to be identical ––>
+                <!–– don't edit type="text" ––>
 
                     <div class="mc-field-group">
                         <label for="FNAME">First Name <span class="asterisk">*</span></label>
@@ -49,6 +49,7 @@
                         <input type="number" value="" placeholder="0060123456789" name="PHONE" id="PHONE">
                     </div>
 
+                    <!–– Don't edit this ––>
                     <div id="mce-responses" class="clear">
                         <div class="response" id="mce-error-response" style="display:none"></div>
                         <div class="response" id="mce-success-response" style="display:none"></div>
@@ -68,8 +69,9 @@
                 </div>
             </form>
 
-            <!–– Thank-you message text in animation: EDIT if requested by client ––>
+            
             <div class="thank-you" style="display: none;">
+            <!–– Thank-you message text in animation: EDIT if requested by client ––>
                 <h2>We have recorded your details. Thank you!</h2>
             </div>
         </div>
